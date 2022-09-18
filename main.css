@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  justify-content: center;
+  margin: 150px;
+  background-color: yellow;
+  height: 150px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
