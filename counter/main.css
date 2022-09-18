@@ -1,0 +1,23 @@
+.outercontainer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 150px;
+  margin: 50px;
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+}
+.counter {
+  margin: 50px;
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+}
+
+.btn {
+    padding: 20px;
+    background: none;
+    border-radius: 20px;
+}
